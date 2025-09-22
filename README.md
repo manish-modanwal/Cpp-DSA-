@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0198-house-robber) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
