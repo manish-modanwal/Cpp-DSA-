@@ -2,9 +2,9 @@ class Solution {
 public:
     ListNode* helper(ListNode* head, ListNode* newnode)
     {
-        if (!head) return nullptr; 
+        if (!head) return nullptr;
 
-        ListNode* curr = head->next; 
+        ListNode* curr = head->next; // skip starting 0
         int sum = 0;
 
         while (curr && curr->val != 0) {
@@ -12,20 +12,20 @@ public:
             curr = curr->next;
         }
 
-        if (!curr) return newnode->next; 
+        if (sum > 0) {   // only create node if sum > 0
+            ListNode* newly = new ListNode(sum);
+            newnode->next = newly;
+            newnode = newly;
+        }
 
-        
-        ListNode* newly = new ListNode(sum);
-        newnode->next = newly;
-        newnode = newnode->next;
+        helper(curr, newnode);
 
-        
-        return helper(curr, newnode);
+        return newnode->next;
     }
 
     ListNode* mergeNodes(ListNode* head) {
         ListNode* dummy = new ListNode(0);
         helper(head, dummy);
-        return dummy->next;  // final merged list
+        return dummy->next;
     }
 };
