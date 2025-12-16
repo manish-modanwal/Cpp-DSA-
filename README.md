@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0198-house-robber) |
+| [0496-next-greater-element-i](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
