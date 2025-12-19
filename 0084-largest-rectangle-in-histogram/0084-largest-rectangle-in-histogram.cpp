@@ -1,37 +1,45 @@
 class Solution {
 public:
+    
+    
     vector<int> nextSmaller(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> next(n, n); // Initialize with n (no smaller element to the right)
-        stack<int> st;
+        vector<int> next(heights.size());  
+        stack<int> st;  
         
-        for(int i = n - 1; i >= 0; i--) {
-            // Find index of next smaller element
-            while(!st.empty() && heights[st.top()] >= heights[i]) {
+        for(int i = heights.size() - 1; i >= 0; i--) {
+            int element = heights[i];
+            
+          
+            while(!st.empty() && heights[st.top()] >= element) {
                 st.pop();
             }
             
-            if(!st.empty()) {
+            if(st.empty()) {
+                // If no smaller to right, set to size
+                next[i] = heights.size();
+            } else {
                 next[i] = st.top();
             }
-            
             st.push(i);
         }
         return next;
     }
     
     vector<int> prevSmaller(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> prev(n, -1); // Initialize with -1 (no smaller element to the left)
-        stack<int> st;
+        vector<int> prev(heights.size()); 
+        stack<int> st;  // Local stack
         
-        for(int i = 0; i < n; i++) {
-            // Find index of previous smaller element
-            while(!st.empty() && heights[st.top()] >= heights[i]) {
+        for(int i = 0; i < heights.size(); i++) {
+            int element = heights[i];
+            
+            // Compare heights[st.top()] with element
+            while(!st.empty() && heights[st.top()] >= element) {
                 st.pop();
             }
             
-            if(!st.empty()) {
+            if(st.empty()) {
+                prev[i] = -1;
+            } else {
                 prev[i] = st.top();
             }
             
@@ -44,9 +52,10 @@ public:
         vector<int> next = nextSmaller(heights);
         vector<int> prev = prevSmaller(heights);
         
-        int maxArea = 0;
+        int maxArea = 0;  
         
         for(int i = 0; i < heights.size(); i++) {
+            
             int width = next[i] - prev[i] - 1;
             maxArea = max(maxArea, heights[i] * width);
         }
