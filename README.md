@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
