@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0086-partition-list](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0198-house-robber) |
 ## Simulation
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
