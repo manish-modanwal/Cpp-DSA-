@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0901-online-stock-span) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0071-simplify-path) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
