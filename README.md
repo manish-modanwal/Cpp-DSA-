@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -150,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Backtracking
 |  |
