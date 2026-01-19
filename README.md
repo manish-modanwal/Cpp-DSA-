@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0113-path-sum-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0623-add-one-row-to-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0623-add-one-row-to-tree) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
