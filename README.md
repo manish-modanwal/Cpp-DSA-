@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0623-add-one-row-to-tree) |
 ## Backtracking
 |  |
