@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0623-add-one-row-to-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0623-add-one-row-to-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0623-add-one-row-to-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0623-add-one-row-to-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0623-add-one-row-to-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -195,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manish-modanwal/Cpp-DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
